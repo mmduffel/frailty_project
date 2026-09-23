@@ -1,18 +1,25 @@
 # Results
  
-This folder contains the results from the exploratory data analysis (EDA) of the cleaned frailty dataset.
+This folder contains the final results from the analysis of the cleaned frailty dataset.
  
-## File
+## Files
  
-- `findings.md` – Contains the results and interpretation of the statistical analysis.
+- `findings.md` – Contains the summary statistics and correlation results from the exploratory data analysis (EDA).
+- `frailty_data_analyzed.csv` – Contains the final analyzed frailty dataset with the additional variables created during the analysis.
  
-## Analysis
+## Analysis Results
  
-The results include:
+The analysis includes:
  
 - Summary statistics for the numeric variables, including the mean, median, and standard deviation
-- Correlation between grip strength and frailty to examine the relationship between the two variables
+- Correlation between grip strength and frailty
+- Height converted from inches to meters
+- Weight converted from pounds to kilograms
+- BMI calculation
+- Age group categories
+- Binary encoding of the Frailty variable
+- Dummy variables for the age group categories
  
 ## Purpose
  
-This folder documents the findings from the analysis performed using the cleaned frailty dataset.
+This folder stores the final outputs produced from the analysis of the cleaned frailty dataset.
