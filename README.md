@@ -9,10 +9,16 @@ The project includes data cleaning, feature engineering, exploratory data analys
 ## Project Structure
  
 ### `data_raw/`
+ 
 Contains the original frailty dataset before any cleaning or preprocessing.
  
+- `raw_frailty_data.csv` – Original frailty dataset used for the project.
+ 
 ### `data_clean/`
-Contains the cleaned frailty dataset after preparing the data for analysis.
+ 
+Contains the cleaned frailty dataset prepared for analysis.
+ 
+- `frailty_data_clean.csv` – Cleaned version of the original frailty dataset.
   
 ### `results/`
 Contains the final outputs from the analysis:
