@@ -13,17 +13,17 @@ Contains the original frailty dataset before any cleaning or preprocessing.
  
 ### `data_clean/`
 Contains the cleaned frailty dataset after preparing the data for analysis.
- 
-### `src/`
-Contains the Google Colab notebooks used for the project:
-- Data cleaning notebook
-- Data analysis notebook
- 
+  
 ### `results/`
 Contains the final outputs from the analysis:
 - `findings.md` with summary statistics and correlation results
 - `frailty_data_analyzed.csv` with the final analyzed dataset
- 
+
+### `src/`
+Contains the Google Colab notebooks used for the project:
+- Data cleaning notebook
+- Data analysis notebook
+ 
 ## Data Cleaning
  
 The data cleaning process includes:
