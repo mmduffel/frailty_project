@@ -33,7 +33,7 @@ The analysis process includes:
 - Creating dummy variables for the age group categories
 - Computing the mean, median, and standard deviation for numeric variables
 - Calculating the correlation between grip strength and frailty
-- Saving the statistical results to `results/findings.md`
+- Saving the summary statistics and correlation results to `results/findings.md`
 - Saving the final analyzed dataset as `frailty_data_analyzed.csv`
  
 ## Purpose
